@@ -1,0 +1,12 @@
+{
+  "id": "sta-srb",
+  "title": "sta-srb",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "styles": [
+    "sta-srb-tos.css"
+  ]
+}
