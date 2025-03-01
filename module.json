@@ -6,7 +6,13 @@
     "minimum": "12",
     "verified": "12"
   },
+  "authors": [
+    {"name": "Simon"}
+  ],
   "styles": [
     "sta-srb-tos.css"
-  ]
+  ],
+  "url": "https://github.com/sbeaver123/srb-sta",
+  "manifest": "https://github.com/sbeaver123/srb-sta/releases/download/v1.0.3/module.json",
+  "download": "https://github.com/sbeaver123/srb-sta/releases/download/v1.0.3/sta-srb.zip"
 }
